@@ -41,13 +41,14 @@ You can view the live version of the EMS here:
 ## Screenshots
 
 #### Login Page
-![Login Page](./screenshot/login.png)
+![Login Page](https://github.com/rahulmouryaa/EMS-Project/blob/5c1264c42d62fbdf26d96d4a05ccf62740dc8199/screenshot/login.png.png)
+
 
 #### Admin Dashboard
-![Admin Dashboard](./screenshot/admin-dashboard.png)
+![Admin Dashboard](https://github.com/rahulmouryaa/EMS-Project/blob/5c1264c42d62fbdf26d96d4a05ccf62740dc8199/screenshot/admin-dashboard.png.png)
 
 #### Employee Dashboard
-![Employee Dashboard](./screenshot/employee-dashboard.png)
+![Employee Dashboard](https://github.com/rahulmouryaa/EMS-Project/blob/5c1264c42d62fbdf26d96d4a05ccf62740dc8199/screenshot/employes-dashboard.png.png)
 
 ## Installation
 
